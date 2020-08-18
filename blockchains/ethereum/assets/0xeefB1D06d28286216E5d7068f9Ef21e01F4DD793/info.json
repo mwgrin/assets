@@ -1,0 +1,13 @@
+{
+  "name": "FEPIC",
+  "website": "https://fastepic.eu/",
+  "short_description": "External wallet system for epic cash with FastEpic Token for uniswap.",
+  "description": "Keybase and web system for epic cash. Swap epic/FastEpic Token",
+  "socials": [
+    {
+      "name": "keybase.io",
+      "url": "https://keybase.io/team/fastepic",
+      "handle": "fastepic"
+    }
+  ]
+}
